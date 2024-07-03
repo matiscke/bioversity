@@ -23,7 +23,7 @@ privacy-policy:
     - name: privacy policy
 
 content:
-    - help
+#    - help
     - overview
     - organizers
     - participants
