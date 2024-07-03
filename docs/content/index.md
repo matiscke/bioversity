@@ -28,7 +28,7 @@ content:
     - organizers
     - participants
 #    - speakers
-    - programme
+    - program
     - venue
     - logistics
     - travel

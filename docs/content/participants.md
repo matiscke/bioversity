@@ -7,9 +7,10 @@ title: Participants
 
 <i class="fa-solid fa-people-group"></i> The registration is **closed**.
 
-<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **July 14**.
+<i class="fa-solid fa-envelope-open-text"></i> Participants will be notified on **September 15**.
 
-## <i class="fa-solid fa-circle-check"></i> Participation confirmation by **Aug 15**.
+## <i class="fa-solid fa-circle-check"></i> Participation confirmation by **October 15**.
+
 * There are no registration fees to participate to this workshop. (See logistics)
 
 

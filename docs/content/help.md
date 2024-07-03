@@ -66,7 +66,7 @@ content:   # the content and ordering of the sections
     - organizers
     - participants
     - speakers
-    - programme
+    - Program
     - venue
     - logistics
     - travel
