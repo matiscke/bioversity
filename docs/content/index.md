@@ -11,7 +11,7 @@ event:
 organizers:
     - name: The Bioverse team 
     - url: https://github.com/danielapai/bioverse
-    - logo: https://images.app.goo.gl/f2CL6x2dGazbu1Bs9 
+    - logo: docs/static/img/AE_Logo-03.webp
     - contact_url: "bioversity@arizona.edu" # -- contact
 
 imprint:
