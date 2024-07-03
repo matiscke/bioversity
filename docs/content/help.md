@@ -67,9 +67,9 @@ content:   # the content and ordering of the sections
     - participants
     - speakers
     - programme
-    - venue-mpia
+    - venue
     - logistics
-    - travel-mpia
+    - travel
     - code-of-conduct
 ```
 
