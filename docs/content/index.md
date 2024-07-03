@@ -3,16 +3,16 @@
 type: index
 
 event:
-    - title: MPIA conference website template
-    - subtitle: A simple generator using markdown and python
-    - date: Date of the event
-    - venue: Max Planck Institute for Astronomy, Heidelberg, Germany
+    - title: Bioversity
+    - subtitle: A workshop on statistical hypothesis testing in exoplanet science 
+    - date: November 4-6 2024
+    - venue: Biosphere 2 
 
 organizers:
-    - name: The Data Science Team
-    - url: https://github.com/mpi-astronomy
-    - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA logo
-    - contact_url: "ds@mpia.de" # -- contact
+    - name: The Bioverse team 
+    - url: https://github.com/danielapai/bioverse
+    - logo: https://images.app.goo.gl/f2CL6x2dGazbu1Bs9 
+    - contact_url: "bioversity@arizona.edu" # -- contact
 
 imprint:
     - url: http://www.mpia.de/imprint
